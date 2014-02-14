@@ -1,0 +1,17 @@
+PODS:
+  - JSMessagesViewController (3.4.4):
+    - JSQSystemSoundPlayer
+  - JSQSystemSoundPlayer (1.4.0)
+  - SVPullToRefresh (0.4.1)
+
+DEPENDENCIES:
+  - JSMessagesViewController
+  - JSQSystemSoundPlayer
+  - SVPullToRefresh
+
+SPEC CHECKSUMS:
+  JSMessagesViewController: 309de7324fbf48b7da924b002ef6017d5d2ce026
+  JSQSystemSoundPlayer: 28ccd01a92a0cebc6de6361e8499011b4cb6dab7
+  SVPullToRefresh: 61a0e4bd12bd6f8e3465909810b0fbeb1a28d5f2
+
+COCOAPODS: 0.29.0
