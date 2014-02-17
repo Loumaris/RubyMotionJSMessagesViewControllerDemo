@@ -7,6 +7,13 @@ class ExampleController < JSMessagesViewController
     self
   end
 
+  def viewWillAppear(animated)
+    super true
+  end
+
+  def viewWillDisappear(animated)
+    super true
+  end
 
   def viewDidLoad
     self.delegate = self
