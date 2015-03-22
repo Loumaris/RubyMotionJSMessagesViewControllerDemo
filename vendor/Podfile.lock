@@ -10,8 +10,8 @@ DEPENDENCIES:
   - SVPullToRefresh
 
 SPEC CHECKSUMS:
-  JSMessagesViewController: 309de7324fbf48b7da924b002ef6017d5d2ce026
-  JSQSystemSoundPlayer: 28ccd01a92a0cebc6de6361e8499011b4cb6dab7
-  SVPullToRefresh: 61a0e4bd12bd6f8e3465909810b0fbeb1a28d5f2
+  JSMessagesViewController: 7a3f3b5bb43044180e05625b32f164c73062bd61
+  JSQSystemSoundPlayer: 2b70470d775d79e666ac58068744cac92268f95f
+  SVPullToRefresh: d5161ebc833a38b465364412e5e307ca80bbb190
 
-COCOAPODS: 0.29.0
+COCOAPODS: 0.33.1
